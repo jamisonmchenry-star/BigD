@@ -1,0 +1,17 @@
+# Terraform working folder
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+terraform.tfstate.d/
+
+# Saved Terraform plans
+*.tfplan
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Packaged application
+app.zip
